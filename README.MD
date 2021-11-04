@@ -40,6 +40,6 @@
     <br>
     <br>
     <br>
-     <a href="https://www.linkedin.com/in/maycondss/"><img align="center" src="https://github.com/maycondss/maycondss/blob/fc97338f5c4970eba3064abbc4456cb032bffd13/linkedin.png" width="30" alt="Maycon Douglas Profile" /></a>
+     <a href="https://www.linkedin.com/in/maycondss/"><img align="center" src="https://github.com/maycondss/maycondss/raw/main/linkedin.png" width="30" alt="Maycon Douglas Profile" /></a>
     </p>
     <br>
