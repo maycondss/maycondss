@@ -6,7 +6,7 @@
 - 💼 Developer at [CI&T](https://ciandt.com/)
 - ❤️ I love cats
 - 📈 I am investing time and effort in learning and mastering new technologies in 2021.
-- 💬 Ask me about anything [here](https://github.com/mayconht/mayconht/issues)
+- 💬 Ask me about anything [here](https://github.com/maycondss/maycondss/issues)
 
 
 <h2 align="center"> highlights</h2>
